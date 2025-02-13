@@ -40,12 +40,7 @@ Built using Florida Department of Revenue guidelines from Forms DR-15EZN and DR-
    - Python 3.x ([Download](https://www.python.org/downloads/))
    - Tkinter (usually included with Python)
 
-2. **Clone Repository**
-   ```bash
-   git clone https://github.com/your-username/florida-sales-tax-calculator.git
-   cd florida-sales-tax-calculator
-Run Application
-python tax_calculator.py
+
 🖥️ Usage
 Enter Cash Sales and Card Sales amounts.
 
